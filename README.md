@@ -32,3 +32,5 @@ Vercel 프로젝트를 GitHub 저장소 `heewon-yu/racing-tuning-lab`에 연결�
 - https://www.racecar-engineering.com/tech-explained/springs-and-dampers/
 - https://optimumg.com/vehicle-setup-and-kinematics-qa-series/
 - https://motorsport.nda.ac.uk/news/a-basic-guide-on-setting-up-a-race-car/
+
+GitHub와 Vercel 연결 후 `main` 브랜치 푸시로 자동 배포를 확인합니다.
